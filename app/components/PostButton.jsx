@@ -8,7 +8,7 @@ export default function PostButton(){
         fetch('http://localhost:3000/examples', {method: 'POST'}).then((res) => {
             res.json.then((data)=> console.log({data}))
         }).catch(() => {
-            console.log('An error occured')
+            console.log('An error occureded')
         })
     }
 
