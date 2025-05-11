@@ -4,7 +4,7 @@ const items = [
     {
       summary: 'Fundamental 1) Describe blocks',
       details: `Your tests will exist in a describe block. This block takes two arguments. The first is a description of what you are testing. 
-      The second is a callback function for your actually tests within that block`,
+      The second was a callback function for your actually tests within that block`,
       id: '1',
     },
     {
